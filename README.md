@@ -7,3 +7,5 @@ Instructions to run the code:
 2. Run it
 3. You will see input prompts asking for cache size, block size and number of ways 
 4. Enter the following data and results will be displayed in the terminal
+
+->report.pdf contains detalied overview of results and observation
